@@ -29,7 +29,7 @@ github_username: thraddash
 premalink: pretty
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-autoprefixer
 
