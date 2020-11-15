@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Thraddash
 email: theartist@gmail.com
-description: Automations, Misc Projects, & Art blog.
+description: Automations, Misc Projects & blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thraddash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -29,9 +29,10 @@ github_username: thraddash
 premalink: pretty
 markdown: kramdown
 
-plugins:
+gems:
   - jekyll-feed
   - jekyll-autoprefixer
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
