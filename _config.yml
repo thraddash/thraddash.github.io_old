@@ -23,6 +23,9 @@ github_path: https://github.com/thraddash
 linkedin_path: https://www.linkedin.com/in/jtong2020
 github_username: thraddash
 
+# Blog Img
+pathToBlogImgBin: /assets/img/blog/
+
 # Build settings
 premalink: pretty
 markdown: kramdown
