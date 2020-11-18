@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<header class="blog-index-header-main" style="background-image:url('{{ site.baseurl }}{{ site.pathToBlogImgBin }}{{ page.featImg }}">
+<header class="blog-index-header-main" style="background-image:url('{{ site.url }}{{ site.pathToBlogImgBin }}{{ page.featImg }}">
   <div class="overlay-dark"></div>
   {% include nav.html %}
   <div class="blog-index-title">
@@ -13,10 +13,9 @@ layout: default
   </div>
 </header>
 <div class="blogPostContentWrapper">
-  {{ content }}
+{{ content }}
 </div>
 <hr>
-
 <div class="blogReadMoreWrapper">
   {% for post in site.posts limit: 3%}
     <div class="blogPostContainer">
