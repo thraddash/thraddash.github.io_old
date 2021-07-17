@@ -9,6 +9,7 @@ author: thraddash
 ## Recipe App
 ---
 ### [Github Page](https://github.com/thraddash/food2/)
+---
 ### [Demo Link](https://happy-shannon-69aac4.netlify.app/)   
 ---
 ### [Projects Kanban board](https://github.com/thraddash/food2/projects/1)    
