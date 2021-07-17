@@ -5,3 +5,15 @@
 
 - 📫 How to reach me **thraddash@spathiwa.com**
 
+
+## Starting the App
+- install [Ruby 2.7.2p137] (https://rubyinstaller.org/) 
+
+```bash
+gem install jekyll bundler
+
+bundle install
+
+bundle exec jekyll serve
+
+```
