@@ -6,12 +6,62 @@ featImg: recipe_mockup.png
 excerpt: "Nodejs Recipe App"
 author: thraddash
 ---
-## Recipe App
+## About the Project
 ---
-### [Github Page](https://github.com/thraddash/food2/)
+### [Github Repository Page](https://github.com/thraddash/food2/)
 ---
-### [Demo Link](https://happy-shannon-69aac4.netlify.app/)   
+### [Recipe Application Demo <<Click Here>>](https://happy-shannon-69aac4.netlify.app/)   
 ---
-### [Projects Kanban board](https://github.com/thraddash/food2/projects/1)    
-###### 📕 Hard  📙 Mid  📘 InProgress  📗 Completed    
+- Learn how to code in React/Nodejs by writing a Recipe App.     
+- Used [Netlify](https://www.netlify.com/) to deploy and host content for testing.   
+- Away to organized my list of cooking recipes and the ability to access the content when hosting the application on a server. 
+
+
+## Starting the App
+---
+- yarn dev will spin up a front-end server and a back-end client running Express.      
+```
+yarn dev
+```
+```
+"scripts": {
+    "start": "react-scripts start",
+    "serverNode": "node ./src/server.js",
+    "server": "nodemon ./src/server.js",
+    "client": "react-scripts start",
+    "dev": "concurrently \"yarn server\" \"yarn client\"",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+```
+   
+#### Here is a list of fetures/functionalities:   
+1. Easy navigation using material ui menu drawer/ material ui icons.   
+2. Created a Search bar to filter recipes by title   
+3. Designed an UI to display all food recipes.   
+recipes can be expanded and collapsibled in 3 sections.   
+(added placeholder image if thumbnail is not provided)      
+Secion 1: Ingredients, Directions and Notes textfield area.     
+Section 2: Additional Images using material ui carousel.   
+Section 3: Video listing using material ui carousel.   
+
+4. Created a Shopping List page when shopping at Costco, where user can add, delete and check off items.  
+5. A Product Information page to keep track products pricing, location, seasonal (learn how to use material ui table)
+6. Created a form input page to add new recipes. User create, remove, update and delete recipes.  
+- There are no required form inputs inorder for the user to add a new recipe   
+- Note form validation have not been implemented   
+- The textbox for Misc Images (comma separated) is used for displaying images in the carousel   
+- The textbox for Video (comma separated) is used for display videos in the carousel   
+7. Note: the Text must be the same as the filename of the uploaded image or video (case sensitive)   
+8. Created a dedicated upload videos page. (see server.js file)
+9. Created a download page to backup the recipes and products info in json format.   
+
+---
+## Github Project Kaban
+- List of backlog items and completed features.  
+[Github Project Kanban board <<Click Here>>](https://github.com/thraddash/food2/projects/1)    
+
+##### Status:  
+###### 📕 TBD  📙 Minor  📘 InProgress  📗 Completed    
 <img src="https://raw.githubusercontent.com/thraddash/food2/master/src/images/mockup.png" width="500" title="Mockup">
