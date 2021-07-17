@@ -29,7 +29,8 @@ install node v14.15.5
 install npm 6.14.11
 npm install --global yarn 
 ```
-3. **yarn dev** - will spin up a front-end server and a back-end client running Express.
+3. **yarn dev** - will spin up a front-end server and a back-end client running Express.   
+
 ```
 "scripts": {
     "start": "react-scripts start",
@@ -43,14 +44,14 @@ npm install --global yarn
   },
 ```
 ---   
-## List of features/functionalities: 
----  
+## List of features/functionalities:  
+---
 1. Easy navigation using material ui menu drawer/ material ui icons.   
 2. Created a Search bar to filter recipes by title   
 3. Designed an UI to display all food recipes.   
 recipes can be expanded and collapsibled in 3 sections.   
-(added placeholder image if thumbnail is not provided)      
-Secion 1: Ingredients, Directions and Notes textfield area.     
+(added placeholder image if thumbnail is not provided)   
+Secion 1: Ingredients, Directions and Notes textfield area.   
 Section 2: Additional Images using material ui carousel.   
 Section 3: Video listing using material ui carousel.   
 
