@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Music"
+categories: Music
+featImg: 2021-07-16-music.jpg
+excerpt: "Music playlist"
+author: thraddash
+---
+## Youtube Music
+---
+
+[Mood](https://music.youtube.com/playlist?list=PLfBH3Hh8XJOygunkLTwFFrIBURyrAFUb1){:target="_blank"}  
+[Chill](https://music.youtube.com/watch?v=GjHU1OEAmyw&list=PLfBH3Hh8XJOxsoeJ2WuetX_MNoWbDaoVX){:target="_blank"}  
+[Playlist](https://music.youtube.com/playlist?list=PLfBH3Hh8XJOzuTTn61-wY1W-EDrWQi5CA){:target="_blank"}  
+[Edm](https://music.youtube.com/playlist?list=PLfBH3Hh8XJOwcvg3YVH889kaIAMuCESZq){:target="_blank"}  
