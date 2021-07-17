@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Recipe App"
+categories: GitHub
+featImg: recipe_mockup.png
+excerpt: "Nodejs Recipe App"
+author: thraddash
+---
+## Recipe App
+---
+### [Github Page](https://github.com/thraddash/food2/)
+### [Demo Link](https://happy-shannon-69aac4.netlify.app/)   
+---
+### [Projects Kanban board](https://github.com/thraddash/food2/projects/1)    
+###### 📕 Hard  📙 Mid  📘 InProgress  📗 Completed    
+<img src="https://raw.githubusercontent.com/thraddash/food2/master/src/images/mockup.png" width="500" title="Mockup">
