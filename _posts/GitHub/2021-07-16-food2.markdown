@@ -10,11 +10,11 @@ author: thraddash
 ---
 ### [Github Repository Page](https://github.com/thraddash/food2/)
 ---
-### [Recipe Application Demo <<Click Here>>](https://happy-shannon-69aac4.netlify.app/)   
+### [Recipe Application Demo Click Here](https://happy-shannon-69aac4.netlify.app/)   
 ---
 - Learn how to code in React/Nodejs by writing a Recipe App.     
 - Used [Netlify](https://www.netlify.com/) to deploy and host content for testing.   
-- Away to organized my list of cooking recipes and the ability to access the content when hosting the application on a server. 
+- A way to organized my list of cooking recipes and the ability to access the content when hosting the application on a server. 
 
 ---
 ## Starting the App
